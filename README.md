@@ -1,2 +1,3 @@
 # Linkedin-Job-Scraper
- SImple Linedin jod scraper To scrape different types of jobs
+ SImple Linedin job scraper To scrape different types of jobs
+ And its location
